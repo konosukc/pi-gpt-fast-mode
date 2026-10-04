@@ -12,6 +12,8 @@ export const SUPPORTED_MODELS = new Set([
   "openai/gpt-5.6-terra",
   "openai/gpt-5.6-luna",
   "openai/gpt-6-astra",
+  "openai/gpt-6-luna",
+  "openai/gpt-6-sol",
   "openai-codex/gpt-5.4",
   "openai-codex/gpt-5.4-mini",
   "openai-codex/gpt-5.5",
@@ -20,6 +22,8 @@ export const SUPPORTED_MODELS = new Set([
   "openai-codex/gpt-5.6-terra",
   "openai-codex/gpt-5.6-luna",
   "openai-codex/gpt-6-astra",
+  "openai-codex/gpt-6-luna",
+  "openai-codex/gpt-6-sol",
 ]);
 export const TARGET_PROVIDER = "openai-codex";
 export const TARGET_MODEL = "gpt-5.6";
